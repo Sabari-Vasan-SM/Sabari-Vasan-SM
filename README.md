@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabari-vasan-sm&show_icons=true&locale=en&layout=compact" alt="sabari-vasan-sm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabari-vasan-sm&show_icons=true&locale=en" alt="sabari-vasan-sm" /></p>
+![](https://nirzak-streak-stats.vercel.app/?user=Sabari-Vasan-SM&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabari-Vasan-SM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabari-vasan-sm&" alt="sabari-vasan-sm" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Sabari-Vasan-SM&icon=0&color=0)](https://visitcount.itsvg.in)
+
