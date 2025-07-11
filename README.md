@@ -1,3 +1,10 @@
+<h1 align="center">Hey 👋  I'm Pradeep</h1>
+
+###
+
+<p align="center">Front End Developer</p>
+
+###
 <img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" />
 
 
