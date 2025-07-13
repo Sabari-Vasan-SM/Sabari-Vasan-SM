@@ -7,6 +7,7 @@
 ###
 <img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
