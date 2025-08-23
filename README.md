@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=24&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&width=400&lines=Web+Developer;Tech+Enthusiast;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
 </h2>
 
----
+
 
 ### 💡 About Me
 
@@ -24,7 +24,7 @@
 </p>
 
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
----
+
 
 ### 📈 GitHub Insights
 
@@ -67,6 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
----
+
 
 > ✨ "Fusing creativity with code to deliver beautiful interfaces, seamless user experiences, rapid performance, and captivating digital solutions."
