@@ -13,18 +13,22 @@
 
 ## 💡 About Me  
 
-<p align="center" style="font-size: 18px; font-weight: 600; line-height: 1.8; max-width: 800px;">
-  🎓 Pursuing a <strong>B.Tech in Information Technology</strong><br>
-  🔧 Passionate about blending <strong>technology</strong> with practical engineering solutions<br>
-  🖌️ Creative <strong>UI/UX Designer</strong> focusing on clean, modern, and user-first interfaces<br>
-  💻 Skilled in <strong>React</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, <strong>IoT</strong>, and intuitive <strong>UI/UX principles</strong><br>
-  🌐 Explore my work: <a href="https://portfolio.vasan.tech" target="_blank"><strong>vasan.tech</strong></a>
-</p>
+<table>
+<tr>
+<td width="60%">
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8d/7a/20/8d7a2015ac7b4d6b5b52d1bb5f7c8e0e.gif" alt="Coding GIF" width="300"/>
-</p>
+- 🎓 Pursuing a **B.Tech in Information Technology**  
+- 🔧 Passionate about blending **technology** with practical engineering solutions  
+- 🎨 Creative **UI/UX Designer** focusing on clean, modern, and user-first interfaces  
+- 💻 Skilled in **React, Node.js, MongoDB, IoT**, and intuitive **UI/UX principles**  
+- 🌐 Explore my work: [vasan.tech](https://vasan.tech)  
 
+</td>
+<td width="40%">
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="250" />
+</td>
+</tr>
+</table>
 
 
 ## 🛠️ Tech Stack  
