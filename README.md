@@ -11,6 +11,7 @@
 </h2>
 
 
+
 ## 💡 About Me  
 
 <table>
@@ -29,6 +30,7 @@
 </td>
 </tr>
 </table>
+
 
 
 ## 🛠️ Tech Stack  
