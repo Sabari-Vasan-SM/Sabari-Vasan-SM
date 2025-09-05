@@ -5,6 +5,7 @@
   </a>
 </h1>
 
+
 <!-- Subtitle Typing Animation (Loop) -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Web+Developer;Tech+Enthusiast;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
