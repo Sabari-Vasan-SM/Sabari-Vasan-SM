@@ -19,11 +19,10 @@
 <tr>
 <td width="60%">
 
-- 🎓 Pursuing a **B.Tech in Information Technology**  
-- 🔧 Passionate about blending **technology** with practical engineering solutions  
-- 🎨 Creative **UI/UX Designer** focusing on clean, modern, and user-first interfaces  
-- 💻 Skilled in **React, Node.js, MongoDB, IoT**, and intuitive **UI/UX principles**  
-- 🌐 Explore my work: [vasan.tech](https://vasan.tech)  
+- 🎓 B.Tech IT Student  
+- 💡 Love turning ideas into real-world tech solutions  
+- 🎨 UI/UX enthusiast — clean, modern & user-friendly designs    
+- 🌐 Check out my work: [vasan.tech](https://vasan.tech)
 
 </td>
 <td width="40%">
