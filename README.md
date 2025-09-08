@@ -22,7 +22,7 @@
 - 🎓 B.Tech IT Student  
 - 💡 Love turning ideas into real-world tech solutions  
 - 🎨 UI/UX enthusiast — clean, modern & user-friendly designs    
-- 🌐 Check out my work: [vasan.tech](https://vasan.tech)
+- 🌐 Check out my work: [portfolio.vasan.tech](https://portfolio.vasan.tech/)
 
 </td>
 <td width="40%">
