@@ -1,6 +1,7 @@
 <!-- Heading Typing Animation -->
 
 
+ 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=9999999&color=87CEEB&center=true&vCenter=true&width=650&lines=Hey++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Sabarivasan+!" alt="Typing SVG" />
@@ -31,6 +32,7 @@
 
 
 
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
@@ -55,6 +57,7 @@
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
+
 
 
 
