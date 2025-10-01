@@ -28,6 +28,7 @@
 </table>
 
 
+ 
 ## 🛠️ Tech Stack  
 
 <p align="center">
@@ -52,6 +53,7 @@
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
+
 
 
 
