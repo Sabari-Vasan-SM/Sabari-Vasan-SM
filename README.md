@@ -58,7 +58,6 @@
 
 ## 📊 GitHub Insights  
 
-
 <div align="center">
 
   <!-- Snake Animation -->
