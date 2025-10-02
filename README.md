@@ -1,5 +1,6 @@
 <!-- Heading Typing Animation -->
 
+
  
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -26,6 +27,7 @@
 </td>
 </tr>
 </table>
+
 
 
  
@@ -57,6 +59,7 @@
 
 
 
+
 ## 📊 GitHub Insights  
 
 <div align="center">
@@ -70,6 +73,7 @@
     <img src="https://streak-stats.demolab.com?user=Sabari-Vasan-SM&theme=dark&hide_border=true&border_radius=10" height="180" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
   </div>
+
 
   <!-- Contribution Graph -->
   <br>
