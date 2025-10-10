@@ -30,7 +30,6 @@
 </table>
 
 
-
  
 ## 🛠️ Tech Stack  
 
@@ -58,7 +57,6 @@
 </p>
 
 
-
 ## 📊 GitHub Insights  
 
 <div align="center">
@@ -73,11 +71,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
   </div>
 
-
   <!-- Contribution Graph -->
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabari-Vasan-SM&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
-
 <h3 align="center">✨ "Fusing creativity with code to deliver beautiful interfaces, seamless user experiences, rapid performance, and captivating digital solutions." ✨</h3>
