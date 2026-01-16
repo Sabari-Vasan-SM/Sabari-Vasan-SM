@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=450&lines=💻+Full+Stack+Dev;🤖+AI-Powered+Builder;🪄+Pixel-Perfect+UIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+Full+Stack+Dev;%F0%9F%A4%96+AI-Powered+Builder;%F0%9F%AA%84+Pixel-Perfect+UIs" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://portfolio.vasan.tech/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/https://in.linkedin.com/in/sabarivasan-sm"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sabarivasan-sm"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:sabarivasan1239@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
@@ -26,7 +26,7 @@
         <li>💡 I love turning complex problems into <b>simple, beautiful code.</b></li>
         <li>🎨 <b>UI/UX Enthusiast</b> — obsessed with pixel-perfect design.</li>
         <li>🚀 Currently Software Developer @ <b>Harvee Designs</b></li>
-        <li>🎨 <b>AI Powered Builder</b></li>
+        <li>🤖 <b>AI Powered Builder</b></li>
         <li>⚡ Fun fact: I can center a <code>div</code> on the first try.</li>
       </ul>
     </td>
