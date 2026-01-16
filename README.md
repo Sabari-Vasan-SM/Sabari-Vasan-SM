@@ -25,7 +25,8 @@
         <li>🎓 <b>B.Tech IT Student</b> passionate about engineering.</li>
         <li>💡 I love turning complex problems into <b>simple, beautiful code.</b></li>
         <li>🎨 <b>UI/UX Enthusiast</b> — obsessed with pixel-perfect design.</li>
-        <li>🚀 Currently exploring <b>DevOps & Cloud Architecture.</b></li>
+        <li>🚀 Currently Software Developer @ <b>Harvee Designs</b></li>
+        <li>🎨 <b>AI Powered Builder</b></li>
         <li>⚡ Fun fact: I can center a <code>div</code> on the first try.</li>
       </ul>
     </td>
