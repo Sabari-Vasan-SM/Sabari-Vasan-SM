@@ -38,34 +38,129 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-023047?style=for-the-badge&logo=openapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
+<table style="margin: auto; border-collapse: collapse;">
+  <tr>
+    <th style="text-align: left; padding: 8px;">Category</th>
+    <th style="text-align: left; padding: 8px;">Technologies</th>
+    <th style="text-align: center; padding: 8px;">Workspace Spec</th>
+  </tr>
+
+  <!-- Frontend -->
+  <tr>
+    <td style="padding: 8px;"><b>Frontend</b></td>
+    <td style="padding: 8px;">
+      <div style="display:flex; flex-wrap:wrap; gap:6px;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+      </div>
+    </td>
+    <td rowspan="8" style="text-align:center; vertical-align:middle; padding:8px;">
+      <img src="https://img.shields.io/badge/Acer-Aspire%20Lite-83B81A?style=for-the-badge&logo=acer&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Intel-Core%20i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Intel-Iris%20Xe%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+    </td>
+  </tr>
+
+  <!-- Backend -->
+  <tr>
+    <td style="padding: 8px;"><b>Backend</b></td>
+    <td style="padding: 8px;">
+      <div style="display:flex; flex-wrap:wrap; gap:6px;">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-023047?style=for-the-badge&logo=openapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Webhooks-FF4F8B?style=for-the-badge&logo=webhooks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Database -->
+  <tr>
+    <td style="padding: 8px;"><b>Database</b></td>
+    <td style="padding: 8px;">
+      <div style="display:flex; flex-wrap:wrap; gap:6px;">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- DevOps & Cloud -->
+  <tr>
+    <td style="padding: 8px;"><b>DevOps & Cloud</b></td>
+    <td style="padding: 8px;">
+      <div style="display:flex; flex-wrap:wrap; gap:6px;">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Deployment -->
+  <tr>
+    <td style="padding: 8px;"><b>Deployment</b></td>
+    <td style="padding: 8px;">
+      <div style="display:flex; flex-wrap:wrap; gap:6px;">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Design -->
+  <tr>
+    <td style="padding: 8px;"><b>Design Tools</b></td>
+    <td style="padding: 8px;">
+      <div style="display:flex; flex-wrap:wrap; gap:6px;">
+        <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- AI Tools -->
+  <tr>
+    <td style="padding: 8px;"><b>AI Tools</b></td>
+    <td style="padding: 8px;">
+      <div style="display:flex; flex-wrap:wrap; gap:6px;">
+        <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Others -->
+  <tr>
+    <td style="padding: 8px;"><b>Others</b></td>
+    <td style="padding: 8px;">
+      <div style="display:flex; flex-wrap:wrap; gap:6px;">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 
