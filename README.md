@@ -77,8 +77,10 @@
   <br/><br/>
 
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sabari-Vasan-SM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages" />
+    <a href="https://github.com/Sabari-Vasan-SM/github-stats">
+<img src="https://github.com/Sabari-Vasan-SM/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Sabari-Vasan-SM/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
   </div>
   
   <br/>
