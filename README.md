@@ -16,52 +16,25 @@
 </p>
 
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-<div style="
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Segoe UI', sans-serif;
-">
-  <div style="
-    display: flex;
-    width: 90%;
-    max-width: 950px;
-    background: rgba(255, 255, 255, 0.07);
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    border-radius: 14px;
-    backdrop-filter: blur(10px);
-    padding: 24px;
-    gap: 24px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-  ">
+### 👨‍💻 About Me
 
-    <div style="flex: 1; display:flex; flex-direction:column; justify-content:center;">
-      <h2 style="
-        margin: 0 0 12px 0;
-        font-size: 28px;
-        color: #fff;
-        letter-spacing: 0.5px;
-      ">👨‍💻 About Me</h2>
+- 🎓 **B.Tech IT Student** passionate about engineering  
+- 💡 I love turning complex problems into **simple, beautiful code**  
+- 🎨 **UI/UX Enthusiast** — obsessed with pixel-perfect design  
+- 🚀 Currently Software Developer @ **Harvee Designs**  
+- 🤖 **AI Powered Builder**  
+- ⚡ Fun fact: I can center a `div` on the first try  
 
-      <ul style="color:#f0f0f0; font-size: 15px; line-height: 1.55; margin: 0; padding-left: 18px;">
-        <li>🎓 <b>B.Tech IT Student</b> passionate about engineering.</li>
-        <li>💡 I love turning complex problems into <b>simple, beautiful code.</b></li>
-        <li>🎨 <b>UI/UX Enthusiast</b> — obsessed with pixel-perfect design.</li>
-        <li>🚀 Currently Software Developer @ <b>Harvee Designs</b></li>
-        <li>🤖 <b>AI Powered Builder</b></li>
-        <li>⚡ Fun fact: I can center a <code>div</code> on the first try.</li>
-      </ul>
-    </div>
-
-    <div style="flex: 1; display:flex; justify-content:center; align-items:center;">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-        style="width:100%; max-width:350px; border-radius:12px;"/>
-    </div>
-
-  </div>
-</div>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250px" />
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
