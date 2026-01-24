@@ -3,6 +3,7 @@
   Hey there, I'm Sabarivasan!
 </h1>
 
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+Full+Stack+Dev;%F0%9F%A4%96+AI-Powered+Builder;%F0%9F%AA%84+Pixel-Perfect+UIs" alt="Typing SVG" />
@@ -18,24 +19,22 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-
-### 👨‍💻 About Me
-
-- 🎓 **B.Tech IT Student** passionate about engineering  
-- 💡 I love turning complex problems into **simple, beautiful code**  
-- 🎨 **UI/UX Enthusiast** — obsessed with pixel-perfect design  
-- 🚀 Currently Software Developer @ **Harvee Designs**  
-- 🤖 **AI Powered Builder**  
-- ⚡ Fun fact: I can center a `div` on the first try  
-
+    <td width="60%" valign="center">
+      <h2>👨‍💻 About Me</h2>
+      <ul>
+        <li>🎓 <b>B.Tech IT Student</b> passionate about engineering.</li>
+        <li>💡 I love turning complex problems into <b>simple, beautiful code.</b></li>
+        <li>🎨 <b>UI/UX Enthusiast</b> — obsessed with pixel-perfect design.</li>
+        <li>🚀 Currently Software Developer @ <b>Harvee Designs</b></li>
+        <li>🤖 <b>AI Powered Builder</b></li>
+        <li>⚡ Fun fact: I can center a <code>div</code> on the first try.</li>
+      </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250px" />
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" />
     </td>
   </tr>
 </table>
-
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -162,8 +161,6 @@
   </tr>
 </table>
 
-
-<br/>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
