@@ -178,7 +178,7 @@
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com?user=Sabari-Vasan-SM&theme=tokyonight&hide_border=true&background=0D1117" width="85%" alt="GitHub Streak" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sabari-Vasan-SM&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   
   <br/><br/>
   
