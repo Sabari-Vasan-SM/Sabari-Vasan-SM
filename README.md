@@ -60,14 +60,15 @@
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
       </div>
     </td>
-    <td rowspan="8" style="text-align:center; vertical-align:middle; padding:8px;">
-      <img src="https://img.shields.io/badge/Acer-Aspire%20Lite-83B81A?style=for-the-badge&logo=acer&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Intel-Core%20i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Intel-Iris%20Xe%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white"/><br/><br/>
-<img src="https://img.shields.io/badge/Ubuntu%2025.10-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+   <td rowspan="8" style="text-align:center; vertical-align:middle; padding:8px;">
+  <img src="https://img.shields.io/badge/Acer-Aspire%20Lite-83B81A?style=for-the-badge&logo=acer&logoColor=white"/><br/><br/>
+  <img src="https://img.shields.io/badge/Intel-Core%20i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/><br/><br/>
+  <img src="https://img.shields.io/badge/Intel-Iris%20Xe%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white"/><br/><br/>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white"/><br/><br/>
+  <img src="https://img.shields.io/badge/Ubuntu%2025.10-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</td>
 
-    </td>
+    
   </tr>
 
   <!-- Backend -->
