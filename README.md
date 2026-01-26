@@ -183,10 +183,6 @@
 </a>
   </div>
   
-  <br/>
-  
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sabari-Vasan-SM&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  
   <br/><br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabari-Vasan-SM&bg_color=0D1117&color=7938d2&line=7938d2&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
