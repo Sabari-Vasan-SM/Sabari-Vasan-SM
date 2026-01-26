@@ -1,9 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey there, I'm Sabarivasan!
-</h1>
-
-
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Sabarivasan! </h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -20,15 +15,21 @@
 
 <table>
   <tr>
-    <td width="60%" valign="center">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
+    <td width="60%" valign="middle" style="text-align:center;">
+      <h2>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀👨‍💻 About Me</h2>
+      <ul style="text-align:left;">
         <li>🎓 <b>B.Tech IT Student</b> passionate about engineering.</li>
         <li>💡 I love turning complex problems into <b>simple, beautiful code.</b></li>
         <li>🎨 <b>UI/UX Enthusiast</b> — obsessed with pixel-perfect design.</li>
         <li>🚀 Currently Software Developer @ <b>Harvee Designs</b></li>
         <li>🤖 <b>AI Powered Builder</b></li>
         <li>⚡ Fun fact: I can center a <code>div</code> on the first try.</li>
+        <li>🌍 Active in
+          <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a>
+          &
+          <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>
+        </li><br></ul>
+        </ul>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -36,6 +37,7 @@
     </td>
   </tr>
 </table>
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
