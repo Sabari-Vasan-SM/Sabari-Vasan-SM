@@ -148,11 +148,13 @@
     <td style="padding: 8px;"><b>AI Tools</b></td>
     <td style="padding: 8px;">
       <div style="display:flex; flex-wrap:wrap; gap:6px;">
-        <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-      </div>
+      <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Perplexity-1FB6FF?style=for-the-badge"/>
+     
+   </div>
     </td>
   </tr>
 
@@ -161,11 +163,18 @@
     <td style="padding: 8px;"><b>Others</b></td>
     <td style="padding: 8px;">
       <div style="display:flex; flex-wrap:wrap; gap:6px;">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-      </div>
+       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
+       <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Windsurf-0055FF?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PuTTY-FFCC00?style=for-the-badge&logo=putty&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Stitch-000000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>    
+     </div>
     </td>
   </tr>
 </table>
