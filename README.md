@@ -73,8 +73,6 @@
   <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white"/><br/><br/>
   <img src="https://img.shields.io/badge/Ubuntu%2025.10-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </td>
-
-    
   </tr>
 
   <!-- Backend -->
@@ -101,6 +99,7 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -113,6 +112,8 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
         <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -140,22 +141,25 @@
       <div style="display:flex; flex-wrap:wrap; gap:6px;">
         <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"/>
         <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stitch-FF6B35?style=for-the-badge&logo=stitch&logoColor=white"/>
       </div>
     </td>
   </tr>
 
   <!-- AI Tools -->
   <tr>
-    <td style="padding: 8px;"><b>AI Tools</b></td>
+    <td style="padding: 8px;"><b>AI Tools & Editors</b></td>
     <td style="padding: 8px;">
       <div style="display:flex; flex-wrap:wrap; gap:6px;">
-      <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Perplexity-1FB6FF?style=for-the-badge"/>
-     
-   </div>
+        <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Perplexity-1FB6FF?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Windsurf-0055FF?style=for-the-badge"/>
+      </div>
     </td>
   </tr>
 
@@ -164,18 +168,16 @@
     <td style="padding: 8px;"><b>Others</b></td>
     <td style="padding: 8px;">
       <div style="display:flex; flex-wrap:wrap; gap:6px;">
-       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
-       <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Windsurf-0055FF?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PuTTY-FFCC00?style=for-the-badge&logo=putty&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Stitch-000000?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>    
-     </div>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BullMQ-4F46E5?style=for-the-badge&logo=bullmq&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PuTTY-FFCC00?style=for-the-badge&logo=putty&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+      </div>
     </td>
   </tr>
 </table>
