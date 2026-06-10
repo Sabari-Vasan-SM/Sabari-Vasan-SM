@@ -200,7 +200,7 @@
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabari-Vasan-SM&bg_color=0D1117&color=7938d2&line=7938d2&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
+ 
 </div>
 
 <br/>
