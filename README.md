@@ -35,7 +35,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" />
+      <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" />
     </td>
   </tr>
 </table>
