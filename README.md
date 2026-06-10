@@ -186,7 +186,8 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" width="100%" />
+<!-- Space Shooter -->
+  <img src="game.gif" alt="GitHub Space Shooter" width="100%" />
   
   <br/><br/>
 
