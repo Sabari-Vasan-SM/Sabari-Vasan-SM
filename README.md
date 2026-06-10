@@ -205,7 +205,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+ 
   <h3><i>"Fusing creativity with code to deliver beautiful interfaces."</i></h3>
 </div>
 
