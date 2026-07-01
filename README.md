@@ -1,6 +1,5 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Sabarivasan! </h1>
 
-
 <div align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Full+Stack+Dev;Cross+-+Platform;Agentic+Coder;End+to+End+Development;Building+end-to-end;Shipping+production-grade."/>
